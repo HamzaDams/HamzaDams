@@ -1,4 +1,6 @@
 ### Hi there 👋
+## 📋 Techno : <img src="https://camo.githubusercontent.com/8e21dda7e6b327eebe363c6eb5510cec0dc6df186d018f99c3615e5b285a3e1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3041314132463f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464646"/>/REACT/REACT NATIVE
+
 
 <!--
 **HamzaDams/HamzaDams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
